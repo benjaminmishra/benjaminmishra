@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+## My name is Benjamin. I am software engineer who just likes to tinker with stuff.
+
 <!--
 **benjaminmishra/benjaminmishra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
